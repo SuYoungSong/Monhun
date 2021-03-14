@@ -45,3 +45,7 @@ https://discord.com/api/oauth2/authorize?client_id=778988715800395837&permission
 # 4.기타
 <br/>
 더이상 업데이트가 진행되지 않습니다. 검색되지 않는 부분이 있을경우 데이타베이스에 직접 추가해서 사용하시면 됩니다.
+<br/>
+DB 제공 사이트 : http://mhw.gamedb.kr/etc
+<br/>
+도움받은 블로그 : https://violeton.tistory.com/11
