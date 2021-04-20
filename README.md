@@ -38,7 +38,7 @@ monhune.py 파일에 자신의 봇 토큰을 입력하고 실행시키면 됩니
 <br/>
 
 
-# 4.기타
+# 3.기타
 <br/>
 DB 제공 사이트 : http://mhw.gamedb.kr/etc
 <br/>
