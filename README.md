@@ -37,14 +37,8 @@ monhune.py 파일에 자신의 봇 토큰을 입력하고 실행시키면 됩니
 <img src="https://cdn.discordapp.com/attachments/779001082453426207/820557387060609074/1c60c8c6acfeb428.PNG">
 <br/>
 
-# 3.봇 초대링크
-<br/>
-https://discord.com/api/oauth2/authorize?client_id=778988715800395837&permissions=2148005952&scope=bot
-<br/>
 
 # 4.기타
-<br/>
-더이상 업데이트가 진행되지 않습니다. 검색되지 않는 부분이 있을경우 데이타베이스에 직접 추가해서 사용하시면 됩니다.
 <br/>
 DB 제공 사이트 : http://mhw.gamedb.kr/etc
 <br/>
