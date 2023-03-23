@@ -9,33 +9,33 @@ monhune.py 파일에 자신의 봇 토큰을 입력하고 실행시키면 됩니
 
 ### `도움말
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820556733340188702/afbdec8459899d4f.PNG">
+<img src="https://i.postimg.cc/PNGrw1WH/1.png">
 <br/>
 
 ### `몬스터 [몬스터명]
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820556997408849960/13fa24cf17b4060a.PNG">
+<img src="https://i.postimg.cc/kX8Whchx/2.png">
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820556905138225162/f53b8c34581744d3.PNG">
+<img src="https://i.postimg.cc/bNQ2Rvsg/3.png">
 <br/>
 
 ### `장식주 [장식주명]
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820557097661497365/b26ffdec2f4dfa4b.PNG">
+<img src="https://i.postimg.cc/ZqqBZFjs/4.png">
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820557099657330698/6ecb34bd7fed317a.PNG">
+<img src="https://i.postimg.cc/wjwMWRHX/5.png">
 <br/>
 
 ### `호석 [호석명]
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820557241970327552/ac99612da084fbc1.PNG">
+<img src="https://i.postimg.cc/J0CzybcL/6.png">
 <br/>
 
 ### `몬스터종류 [종류명]
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820557393225449503/w.PNG">
+<img src="https://i.postimg.cc/KvFYxD87/7.png">
 <br/>
-<img src="https://cdn.discordapp.com/attachments/779001082453426207/820557387060609074/1c60c8c6acfeb428.PNG">
+<img src="https://i.postimg.cc/mrF4QPr2/8.png">
 <br/>
 
 
